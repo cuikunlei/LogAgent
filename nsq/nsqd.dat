@@ -1,0 +1,1 @@
+{"topics":[{"channels":[{"name":"first","paused":false}],"name":"web_log","paused":false},{"channels":[{"name":"first","paused":false}],"name":"web_log1","paused":false},{"channels":[],"name":"redis_log","paused":false},{"channels":[],"name":"topic_demo","paused":false}],"version":"1.2.1"}
