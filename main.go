@@ -25,7 +25,6 @@ func main() {
 	}
 
 	err = nsq.InitNsq(string(cfg.NsqConf.Address))
-	fmt.Printf("CKL-TEST2 ADD %s\n", cfg.NsqConf.Address)
 	if err != nil {
 		fmt.Printf("init nsq failed,err:%v\n", err)
 		return
